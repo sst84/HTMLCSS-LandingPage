@@ -30,7 +30,7 @@ section {
     align-items: center;
 }
 .center {
-    justify-content: center;
+    justify-content: left;
 }
 .space-between {
     justify-content: space-between
