@@ -35,3 +35,37 @@ section {
 .space-between {
     justify-content: space-between
 }
+.btn {
+    border: 0;
+    cursor: pointer;
+    padding: 6px 12px 6px 12px;
+    border-radius: 3px;
+    line-height: 1.4;
+}
+.btn-default {
+    background-color: #faa541;
+    color: #ffffff;
+}
+.btn-primary {
+    background-color: #364147;
+    color: #ffffff;
+}
+.form-control {
+    display: block;
+    padding: 6px 12px 6px 12px;
+    border: solid 1px #a0a0a0;
+    line-height: 1.4;
+    color: #8598a2;
+}
+.text-light {
+    font-size: 30px;
+    color: #a0a0a0;
+}
+.text-primary {
+    font-size: 16px;
+    color: #364147;
+}
+.text-secondary {
+    font-size: 30px;
+    color: #faa541;
+}
