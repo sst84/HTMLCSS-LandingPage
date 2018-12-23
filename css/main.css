@@ -83,14 +83,6 @@ section {
     max-width: 100%;
     height: auto;
 }
-.search-box {
-    background-color: #a0a0a0;
-    color: #ffffff;
-    width: 330px;
-    height: 30px;
-    border: #a0a0a0 1px solid;
-    padding: 6px 12px;
-}
 .search-button {
     background-color: #a0a0a0;
     color: #ffffff;
@@ -98,6 +90,12 @@ section {
     height: 30px;
     border: 0;
     padding: 0;
+}
+.search-box {
+    width: 330px;
+    height: 30px; 
+    padding: 6px 12px;
+    border: 1px solid #a0a0a0;
 }
 .nav-list {
     padding-left: 0;
